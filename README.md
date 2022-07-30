@@ -1,7 +1,7 @@
 # YuIndex - 极客范儿的浏览器主页
 
-> Coolest browser index for geeks! 
-> 
+> Coolest browser index for geeks!
+>
 > 前后端全栈项目 By [程序员鱼皮](https://docs.qq.com/doc/DUFFRVWladXVjeUxW)
 
 
@@ -117,6 +117,7 @@ history
 - 查看日期 date
 - 翻译 fanyi
 - 待办事项 todo
+- 网络请求 curl
 - 网络检测 ping
 - 定时器 timing
 - 更换背景 background
